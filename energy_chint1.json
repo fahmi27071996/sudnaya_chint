@@ -1,0 +1,14 @@
+[
+    {
+        "serial_number": "X12345",
+        "chint": [
+            {
+                "time_stamp": "20200413T085334.907+0700",
+                "energy_enjoy": 504.71,
+                "phase_1": 1.06,
+                "phase_2": 1.24,
+                "phase_3": 0.81
+            }
+		]
+    }
+]
