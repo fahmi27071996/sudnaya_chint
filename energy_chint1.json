@@ -22,6 +22,20 @@
                 "phase_1": 1.1,
                 "phase_2": 1.24,
                 "phase_3": 0.8
+            },
+            {
+                "time_stamp": "2020-04-14",
+                "energy_enjoy": 465.98,
+                "phase_1": 0.11,
+                "phase_2": 0.22,
+                "phase_3": 0.33
+            },
+            {
+                "time_stamp": "2020-04-15",
+                "energy_enjoy": 473.5,
+                "phase_1": 1.2,
+                "phase_2": 1.3,
+                "phase_3": 1.4
             }
 		]
     }
