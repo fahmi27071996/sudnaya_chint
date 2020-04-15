@@ -3,21 +3,21 @@
         "serial_number": "X12345",
         "chint": [
             {
-                "time_stamp": "20200411T080902.889+0700",
+                "time_stamp": "2020-04-11",
                 "energy_enjoy": 504.71,
                 "phase_1": 1.06,
                 "phase_2": 1.24,
                 "phase_3": 0.81
             },
             {
-                "time_stamp": "20200411T081357.223+0700",
+                "time_stamp": "2020-04-12",
                 "energy_enjoy": 465.98,
                 "phase_1": 1.06,
                 "phase_2": 1.24,
                 "phase_3": 0.78
             },
             {
-                "time_stamp": "20200411T081851.552+0700",
+                "time_stamp": "2020-04-13",
                 "energy_enjoy": 473.5,
                 "phase_1": 1.1,
                 "phase_2": 1.24,
