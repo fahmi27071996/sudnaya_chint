@@ -29744,6 +29744,1406 @@
                 "energy_b": 1757740.0,
                 "energy_c": 1793240.0,
                 "energy_total": 5424000.0
+            },
+            {
+                "time_stamp": "20200429T154231.074+0700",
+                "energy_a": 1767200.0,
+                "energy_b": 1718980.0,
+                "energy_c": 1739400.0,
+                "energy_total": 5225580.0
+            },
+            {
+                "time_stamp": "20200429T154725.401+0700",
+                "energy_a": 1756870.0,
+                "energy_b": 1723190.0,
+                "energy_c": 1762210.0,
+                "energy_total": 5242270.0
+            },
+            {
+                "time_stamp": "20200429T155219.727+0700",
+                "energy_a": 1751400.0,
+                "energy_b": 1643120.0,
+                "energy_c": 1627160.0,
+                "energy_total": 5021680.0
+            },
+            {
+                "time_stamp": "20200429T155714.057+0700",
+                "energy_a": 1705200.0,
+                "energy_b": 1410650.0,
+                "energy_c": 1469540.0,
+                "energy_total": 4585390.0
+            },
+            {
+                "time_stamp": "20200429T160208.382+0700",
+                "energy_a": 1326710.0,
+                "energy_b": 1208640.0,
+                "energy_c": 1208790.0,
+                "energy_total": 3744140.0
+            },
+            {
+                "time_stamp": "20200429T160702.714+0700",
+                "energy_a": 892690.0,
+                "energy_b": 872940.0,
+                "energy_c": 691230.0,
+                "energy_total": 2456860.0
+            },
+            {
+                "time_stamp": "20200429T161157.031+0700",
+                "energy_a": 1406400.0,
+                "energy_b": 1364660.0,
+                "energy_c": 1252250.0,
+                "energy_total": 4023310.0
+            },
+            {
+                "time_stamp": "20200429T161651.356+0700",
+                "energy_a": 862200.0,
+                "energy_b": 887810.0,
+                "energy_c": 578520.0,
+                "energy_total": 2328530.0
+            },
+            {
+                "time_stamp": "20200429T162145.682+0700",
+                "energy_a": 658580.0,
+                "energy_b": 923960.0,
+                "energy_c": 508980.0,
+                "energy_total": 2091520.0
+            },
+            {
+                "time_stamp": "20200429T162640.007+0700",
+                "energy_a": 510190.0,
+                "energy_b": 872220.0,
+                "energy_c": 346410.0,
+                "energy_total": 1728820.0
+            },
+            {
+                "time_stamp": "20200429T163134.333+0700",
+                "energy_a": 456210.0,
+                "energy_b": 874800.0,
+                "energy_c": 352520.0,
+                "energy_total": 1683530.0
+            },
+            {
+                "time_stamp": "20200429T163628.696+0700",
+                "energy_a": 507150.0,
+                "energy_b": 818690.0,
+                "energy_c": 380020.0,
+                "energy_total": 1705860.0
+            },
+            {
+                "time_stamp": "20200429T164122.991+0700",
+                "energy_a": 560810.0,
+                "energy_b": 825030.0,
+                "energy_c": 366430.0,
+                "energy_total": 1752270.0
+            },
+            {
+                "time_stamp": "20200429T164617.321+0700",
+                "energy_a": 435490.0,
+                "energy_b": 816330.0,
+                "energy_c": 378410.0,
+                "energy_total": 1630230.0
+            },
+            {
+                "time_stamp": "20200429T165111.647+0700",
+                "energy_a": 311820.0,
+                "energy_b": 833000.0,
+                "energy_c": 442990.0,
+                "energy_total": 1587810.0
+            },
+            {
+                "time_stamp": "20200429T165605.975+0700",
+                "energy_a": 570070.0,
+                "energy_b": 1182840.0,
+                "energy_c": 656510.0,
+                "energy_total": 2409420.0
+            },
+            {
+                "time_stamp": "20200429T170100.304+0700",
+                "energy_a": 563940.0,
+                "energy_b": 1145240.0,
+                "energy_c": 469190.0,
+                "energy_total": 2178370.0
+            },
+            {
+                "time_stamp": "20200429T170554.630+0700",
+                "energy_a": 461470.0,
+                "energy_b": 870200.0,
+                "energy_c": 296570.0,
+                "energy_total": 1628240.0
+            },
+            {
+                "time_stamp": "20200429T171048.956+0700",
+                "energy_a": 508260.0,
+                "energy_b": 860050.0,
+                "energy_c": 303300.0,
+                "energy_total": 1671610.0
+            },
+            {
+                "time_stamp": "20200429T171543.280+0700",
+                "energy_a": 493740.0,
+                "energy_b": 758050.0,
+                "energy_c": 278440.0,
+                "energy_total": 1530230.0
+            },
+            {
+                "time_stamp": "20200429T172037.608+0700",
+                "energy_a": 298630.0,
+                "energy_b": 706830.0,
+                "energy_c": 429890.0,
+                "energy_total": 1435350.0
+            },
+            {
+                "time_stamp": "20200429T172531.935+0700",
+                "energy_a": 292340.0,
+                "energy_b": 700640.0,
+                "energy_c": 388680.0,
+                "energy_total": 1381660.0
+            },
+            {
+                "time_stamp": "20200429T173026.265+0700",
+                "energy_a": 293290.0,
+                "energy_b": 700550.0,
+                "energy_c": 396410.0,
+                "energy_total": 1390250.0
+            },
+            {
+                "time_stamp": "20200429T173520.627+0700",
+                "energy_a": 296060.0,
+                "energy_b": 775000.0,
+                "energy_c": 445870.0,
+                "energy_total": 1516930.0
+            },
+            {
+                "time_stamp": "20200429T174014.918+0700",
+                "energy_a": 517420.0,
+                "energy_b": 968750.0,
+                "energy_c": 514700.0,
+                "energy_total": 2000870.0
+            },
+            {
+                "time_stamp": "20200429T174509.248+0700",
+                "energy_a": 427550.0,
+                "energy_b": 873190.0,
+                "energy_c": 348930.0,
+                "energy_total": 1649670.0
+            },
+            {
+                "time_stamp": "20200429T175003.576+0700",
+                "energy_a": 452280.0,
+                "energy_b": 883200.0,
+                "energy_c": 351820.0,
+                "energy_total": 1687300.0
+            },
+            {
+                "time_stamp": "20200429T175457.903+0700",
+                "energy_a": 396090.0,
+                "energy_b": 875920.0,
+                "energy_c": 340080.0,
+                "energy_total": 1612090.0
+            },
+            {
+                "time_stamp": "20200429T175952.227+0700",
+                "energy_a": 392240.0,
+                "energy_b": 748650.0,
+                "energy_c": 320060.0,
+                "energy_total": 1460950.0
+            },
+            {
+                "time_stamp": "20200429T180446.556+0700",
+                "energy_a": 378010.0,
+                "energy_b": 738270.0,
+                "energy_c": 332390.0,
+                "energy_total": 1448670.0
+            },
+            {
+                "time_stamp": "20200429T180940.884+0700",
+                "energy_a": 369820.0,
+                "energy_b": 734850.0,
+                "energy_c": 298050.0,
+                "energy_total": 1402720.0
+            },
+            {
+                "time_stamp": "20200429T181435.213+0700",
+                "energy_a": 422040.0,
+                "energy_b": 739250.0,
+                "energy_c": 326790.0,
+                "energy_total": 1488080.0
+            },
+            {
+                "time_stamp": "20200429T181929.548+0700",
+                "energy_a": 430420.0,
+                "energy_b": 819190.0,
+                "energy_c": 327970.0,
+                "energy_total": 1577580.0
+            },
+            {
+                "time_stamp": "20200429T182423.867+0700",
+                "energy_a": 391190.0,
+                "energy_b": 858130.0,
+                "energy_c": 314660.0,
+                "energy_total": 1563980.0
+            },
+            {
+                "time_stamp": "20200429T182918.195+0700",
+                "energy_a": 379590.0,
+                "energy_b": 903020.0,
+                "energy_c": 334890.0,
+                "energy_total": 1617500.0
+            },
+            {
+                "time_stamp": "20200429T183412.558+0700",
+                "energy_a": 402120.0,
+                "energy_b": 995730.0,
+                "energy_c": 351690.0,
+                "energy_total": 1749540.0
+            },
+            {
+                "time_stamp": "20200429T183906.849+0700",
+                "energy_a": 402900.0,
+                "energy_b": 869620.0,
+                "energy_c": 324060.0,
+                "energy_total": 1596580.0
+            },
+            {
+                "time_stamp": "20200429T184401.177+0700",
+                "energy_a": 438790.0,
+                "energy_b": 873060.0,
+                "energy_c": 352520.0,
+                "energy_total": 1664370.0
+            },
+            {
+                "time_stamp": "20200429T184855.498+0700",
+                "energy_a": 428000.0,
+                "energy_b": 858640.0,
+                "energy_c": 275020.0,
+                "energy_total": 1561660.0
+            },
+            {
+                "time_stamp": "20200429T185349.819+0700",
+                "energy_a": 462860.0,
+                "energy_b": 861930.0,
+                "energy_c": 276510.0,
+                "energy_total": 1601300.0
+            },
+            {
+                "time_stamp": "20200429T185844.142+0700",
+                "energy_a": 395670.0,
+                "energy_b": 954910.0,
+                "energy_c": 274610.0,
+                "energy_total": 1625190.0
+            },
+            {
+                "time_stamp": "20200429T190338.471+0700",
+                "energy_a": 388660.0,
+                "energy_b": 975760.0,
+                "energy_c": 259570.0,
+                "energy_total": 1623990.0
+            },
+            {
+                "time_stamp": "20200429T190832.796+0700",
+                "energy_a": 388240.0,
+                "energy_b": 978800.0,
+                "energy_c": 248230.0,
+                "energy_total": 1615270.0
+            },
+            {
+                "time_stamp": "20200429T191327.120+0700",
+                "energy_a": 387220.0,
+                "energy_b": 957750.0,
+                "energy_c": 246380.0,
+                "energy_total": 1591350.0
+            },
+            {
+                "time_stamp": "20200429T191821.452+0700",
+                "energy_a": 430060.0,
+                "energy_b": 851370.0,
+                "energy_c": 261510.0,
+                "energy_total": 1542940.0
+            },
+            {
+                "time_stamp": "20200429T192315.777+0700",
+                "energy_a": 413940.0,
+                "energy_b": 844980.0,
+                "energy_c": 254180.0,
+                "energy_total": 1513100.0
+            },
+            {
+                "time_stamp": "20200429T192810.104+0700",
+                "energy_a": 443460.0,
+                "energy_b": 859590.0,
+                "energy_c": 302180.0,
+                "energy_total": 1605230.0
+            },
+            {
+                "time_stamp": "20200429T193304.468+0700",
+                "energy_a": 399310.0,
+                "energy_b": 857660.0,
+                "energy_c": 272140.0,
+                "energy_total": 1529110.0
+            },
+            {
+                "time_stamp": "20200429T193758.765+0700",
+                "energy_a": 402650.0,
+                "energy_b": 970700.0,
+                "energy_c": 269520.0,
+                "energy_total": 1642870.0
+            },
+            {
+                "time_stamp": "20200429T194253.093+0700",
+                "energy_a": 403590.0,
+                "energy_b": 981430.0,
+                "energy_c": 273360.0,
+                "energy_total": 1658380.0
+            },
+            {
+                "time_stamp": "20200429T194747.416+0700",
+                "energy_a": 418810.0,
+                "energy_b": 993080.0,
+                "energy_c": 309180.0,
+                "energy_total": 1721070.0
+            },
+            {
+                "time_stamp": "20200429T195241.742+0700",
+                "energy_a": 431300.0,
+                "energy_b": 924680.0,
+                "energy_c": 276930.0,
+                "energy_total": 1632910.0
+            },
+            {
+                "time_stamp": "20200429T195736.073+0700",
+                "energy_a": 453630.0,
+                "energy_b": 852790.0,
+                "energy_c": 279580.0,
+                "energy_total": 1586000.0
+            },
+            {
+                "time_stamp": "20200429T200230.396+0700",
+                "energy_a": 383360.0,
+                "energy_b": 853710.0,
+                "energy_c": 268170.0,
+                "energy_total": 1505240.0
+            },
+            {
+                "time_stamp": "20200429T200724.719+0700",
+                "energy_a": 382980.0,
+                "energy_b": 854400.0,
+                "energy_c": 263000.0,
+                "energy_total": 1500380.0
+            },
+            {
+                "time_stamp": "20200429T201219.044+0700",
+                "energy_a": 384730.0,
+                "energy_b": 898210.0,
+                "energy_c": 283570.0,
+                "energy_total": 1566510.0
+            },
+            {
+                "time_stamp": "20200429T201713.372+0700",
+                "energy_a": 387230.0,
+                "energy_b": 973500.0,
+                "energy_c": 268820.0,
+                "energy_total": 1629550.0
+            },
+            {
+                "time_stamp": "20200429T202207.705+0700",
+                "energy_a": 441000.0,
+                "energy_b": 984580.0,
+                "energy_c": 291660.0,
+                "energy_total": 1717240.0
+            },
+            {
+                "time_stamp": "20200429T202702.029+0700",
+                "energy_a": 421880.0,
+                "energy_b": 939820.0,
+                "energy_c": 273600.0,
+                "energy_total": 1635300.0
+            },
+            {
+                "time_stamp": "20200429T203156.393+0700",
+                "energy_a": 460300.0,
+                "energy_b": 856840.0,
+                "energy_c": 279500.0,
+                "energy_total": 1596640.0
+            },
+            {
+                "time_stamp": "20200429T203650.682+0700",
+                "energy_a": 398990.0,
+                "energy_b": 855650.0,
+                "energy_c": 272370.0,
+                "energy_total": 1527010.0
+            },
+            {
+                "time_stamp": "20200429T204145.008+0700",
+                "energy_a": 398010.0,
+                "energy_b": 851810.0,
+                "energy_c": 257170.0,
+                "energy_total": 1506990.0
+            },
+            {
+                "time_stamp": "20200429T204639.339+0700",
+                "energy_a": 388610.0,
+                "energy_b": 897340.0,
+                "energy_c": 259430.0,
+                "energy_total": 1545380.0
+            },
+            {
+                "time_stamp": "20200429T205133.663+0700",
+                "energy_a": 405100.0,
+                "energy_b": 661960.0,
+                "energy_c": 300580.0,
+                "energy_total": 1367640.0
+            },
+            {
+                "time_stamp": "20200429T205627.991+0700",
+                "energy_a": 390820.0,
+                "energy_b": 804180.0,
+                "energy_c": 255660.0,
+                "energy_total": 1450660.0
+            },
+            {
+                "time_stamp": "20200429T210122.318+0700",
+                "energy_a": 443560.0,
+                "energy_b": 978310.0,
+                "energy_c": 286660.0,
+                "energy_total": 1708530.0
+            },
+            {
+                "time_stamp": "20200429T210616.642+0700",
+                "energy_a": 406460.0,
+                "energy_b": 867750.0,
+                "energy_c": 276710.0,
+                "energy_total": 1550920.0
+            },
+            {
+                "time_stamp": "20200429T211110.969+0700",
+                "energy_a": 379620.0,
+                "energy_b": 845880.0,
+                "energy_c": 244270.0,
+                "energy_total": 1469770.0
+            },
+            {
+                "time_stamp": "20200429T211605.297+0700",
+                "energy_a": 394820.0,
+                "energy_b": 849750.0,
+                "energy_c": 235580.0,
+                "energy_total": 1480150.0
+            },
+            {
+                "time_stamp": "20200429T212059.622+0700",
+                "energy_a": 402710.0,
+                "energy_b": 864920.0,
+                "energy_c": 266610.0,
+                "energy_total": 1534240.0
+            },
+            {
+                "time_stamp": "20200429T212553.952+0700",
+                "energy_a": 450550.0,
+                "energy_b": 961850.0,
+                "energy_c": 272060.0,
+                "energy_total": 1684460.0
+            },
+            {
+                "time_stamp": "20200429T213048.317+0700",
+                "energy_a": 414350.0,
+                "energy_b": 982150.0,
+                "energy_c": 265020.0,
+                "energy_total": 1661520.0
+            },
+            {
+                "time_stamp": "20200429T213542.601+0700",
+                "energy_a": 482330.0,
+                "energy_b": 1072220.0,
+                "energy_c": 342050.0,
+                "energy_total": 1896600.0
+            },
+            {
+                "time_stamp": "20200429T214036.928+0700",
+                "energy_a": 402700.0,
+                "energy_b": 1076090.0,
+                "energy_c": 270480.0,
+                "energy_total": 1749270.0
+            },
+            {
+                "time_stamp": "20200429T214531.255+0700",
+                "energy_a": 393610.0,
+                "energy_b": 1038730.0,
+                "energy_c": 251750.0,
+                "energy_total": 1684090.0
+            },
+            {
+                "time_stamp": "20200429T215025.589+0700",
+                "energy_a": 387340.0,
+                "energy_b": 881710.0,
+                "energy_c": 241350.0,
+                "energy_total": 1510400.0
+            },
+            {
+                "time_stamp": "20200429T215519.907+0700",
+                "energy_a": 395260.0,
+                "energy_b": 854500.0,
+                "energy_c": 253370.0,
+                "energy_total": 1503130.0
+            },
+            {
+                "time_stamp": "20200429T220014.236+0700",
+                "energy_a": 417250.0,
+                "energy_b": 854870.0,
+                "energy_c": 253130.0,
+                "energy_total": 1525250.0
+            },
+            {
+                "time_stamp": "20200429T220508.558+0700",
+                "energy_a": 416340.0,
+                "energy_b": 860270.0,
+                "energy_c": 257010.0,
+                "energy_total": 1533620.0
+            },
+            {
+                "time_stamp": "20200429T221002.885+0700",
+                "energy_a": 449630.0,
+                "energy_b": 970780.0,
+                "energy_c": 291400.0,
+                "energy_total": 1711810.0
+            },
+            {
+                "time_stamp": "20200429T221457.210+0700",
+                "energy_a": 404070.0,
+                "energy_b": 979060.0,
+                "energy_c": 257860.0,
+                "energy_total": 1640990.0
+            },
+            {
+                "time_stamp": "20200429T221951.540+0700",
+                "energy_a": 404800.0,
+                "energy_b": 987390.0,
+                "energy_c": 288850.0,
+                "energy_total": 1681040.0
+            },
+            {
+                "time_stamp": "20200429T222445.866+0700",
+                "energy_a": 404890.0,
+                "energy_b": 989400.0,
+                "energy_c": 274560.0,
+                "energy_total": 1668850.0
+            },
+            {
+                "time_stamp": "20200429T222940.228+0700",
+                "energy_a": 443910.0,
+                "energy_b": 894190.0,
+                "energy_c": 257830.0,
+                "energy_total": 1595930.0
+            },
+            {
+                "time_stamp": "20200429T223434.519+0700",
+                "energy_a": 388380.0,
+                "energy_b": 853760.0,
+                "energy_c": 241940.0,
+                "energy_total": 1484080.0
+            },
+            {
+                "time_stamp": "20200429T223928.845+0700",
+                "energy_a": 447280.0,
+                "energy_b": 855100.0,
+                "energy_c": 276750.0,
+                "energy_total": 1579130.0
+            },
+            {
+                "time_stamp": "20200429T224423.169+0700",
+                "energy_a": 404600.0,
+                "energy_b": 849630.0,
+                "energy_c": 251400.0,
+                "energy_total": 1505630.0
+            },
+            {
+                "time_stamp": "20200429T224917.494+0700",
+                "energy_a": 386200.0,
+                "energy_b": 916670.0,
+                "energy_c": 246730.0,
+                "energy_total": 1549600.0
+            },
+            {
+                "time_stamp": "20200429T225411.817+0700",
+                "energy_a": 388920.0,
+                "energy_b": 975580.0,
+                "energy_c": 252220.0,
+                "energy_total": 1616720.0
+            },
+            {
+                "time_stamp": "20200429T225906.144+0700",
+                "energy_a": 389940.0,
+                "energy_b": 982510.0,
+                "energy_c": 267330.0,
+                "energy_total": 1639780.0
+            },
+            {
+                "time_stamp": "20200429T230400.474+0700",
+                "energy_a": 445580.0,
+                "energy_b": 991650.0,
+                "energy_c": 295270.0,
+                "energy_total": 1732500.0
+            },
+            {
+                "time_stamp": "20200429T230854.804+0700",
+                "energy_a": 406980.0,
+                "energy_b": 992260.0,
+                "energy_c": 274300.0,
+                "energy_total": 1673540.0
+            },
+            {
+                "time_stamp": "20200429T231349.132+0700",
+                "energy_a": 466600.0,
+                "energy_b": 865440.0,
+                "energy_c": 275250.0,
+                "energy_total": 1607290.0
+            },
+            {
+                "time_stamp": "20200429T231843.466+0700",
+                "energy_a": 418210.0,
+                "energy_b": 860900.0,
+                "energy_c": 268830.0,
+                "energy_total": 1547940.0
+            },
+            {
+                "time_stamp": "20200429T232337.783+0700",
+                "energy_a": 401000.0,
+                "energy_b": 857230.0,
+                "energy_c": 256380.0,
+                "energy_total": 1514610.0
+            },
+            {
+                "time_stamp": "20200429T232832.145+0700",
+                "energy_a": 387320.0,
+                "energy_b": 853740.0,
+                "energy_c": 239210.0,
+                "energy_total": 1480270.0
+            },
+            {
+                "time_stamp": "20200429T233326.437+0700",
+                "energy_a": 417370.0,
+                "energy_b": 952140.0,
+                "energy_c": 278440.0,
+                "energy_total": 1647950.0
+            },
+            {
+                "time_stamp": "20200429T233820.760+0700",
+                "energy_a": 408010.0,
+                "energy_b": 981690.0,
+                "energy_c": 328690.0,
+                "energy_total": 1718390.0
+            },
+            {
+                "time_stamp": "20200429T234315.082+0700",
+                "energy_a": 428930.0,
+                "energy_b": 985850.0,
+                "energy_c": 315080.0,
+                "energy_total": 1729860.0
+            },
+            {
+                "time_stamp": "20200429T234809.413+0700",
+                "energy_a": 414760.0,
+                "energy_b": 791280.0,
+                "energy_c": 326820.0,
+                "energy_total": 1532860.0
+            },
+            {
+                "time_stamp": "20200429T235303.741+0700",
+                "energy_a": 394720.0,
+                "energy_b": 683030.0,
+                "energy_c": 222540.0,
+                "energy_total": 1300290.0
+            },
+            {
+                "time_stamp": "20200429T235758.071+0700",
+                "energy_a": 406630.0,
+                "energy_b": 1049190.0,
+                "energy_c": 267340.0,
+                "energy_total": 1723160.0
+            },
+            {
+                "time_stamp": "20200430T000252.400+0700",
+                "energy_a": 409150.0,
+                "energy_b": 1048630.0,
+                "energy_c": 269200.0,
+                "energy_total": 1726980.0
+            },
+            {
+                "time_stamp": "20200430T000746.728+0700",
+                "energy_a": 449180.0,
+                "energy_b": 984990.0,
+                "energy_c": 272270.0,
+                "energy_total": 1706440.0
+            },
+            {
+                "time_stamp": "20200430T001241.056+0700",
+                "energy_a": 402610.0,
+                "energy_b": 855920.0,
+                "energy_c": 248150.0,
+                "energy_total": 1506680.0
+            },
+            {
+                "time_stamp": "20200430T001735.385+0700",
+                "energy_a": 445620.0,
+                "energy_b": 931080.0,
+                "energy_c": 262080.0,
+                "energy_total": 1638780.0
+            },
+            {
+                "time_stamp": "20200430T002229.714+0700",
+                "energy_a": 418320.0,
+                "energy_b": 971840.0,
+                "energy_c": 262280.0,
+                "energy_total": 1652440.0
+            },
+            {
+                "time_stamp": "20200430T002724.074+0700",
+                "energy_a": 406400.0,
+                "energy_b": 980680.0,
+                "energy_c": 271660.0,
+                "energy_total": 1658740.0
+            },
+            {
+                "time_stamp": "20200430T003218.367+0700",
+                "energy_a": 392060.0,
+                "energy_b": 987050.0,
+                "energy_c": 278860.0,
+                "energy_total": 1657970.0
+            },
+            {
+                "time_stamp": "20200430T003712.692+0700",
+                "energy_a": 400620.0,
+                "energy_b": 508330.0,
+                "energy_c": 233110.0,
+                "energy_total": 1142060.0
+            },
+            {
+                "time_stamp": "20200430T004207.017+0700",
+                "energy_a": 395910.0,
+                "energy_b": 858200.0,
+                "energy_c": 248320.0,
+                "energy_total": 1502430.0
+            },
+            {
+                "time_stamp": "20200430T004701.344+0700",
+                "energy_a": 406430.0,
+                "energy_b": 835870.0,
+                "energy_c": 238140.0,
+                "energy_total": 1480440.0
+            },
+            {
+                "time_stamp": "20200430T005155.675+0700",
+                "energy_a": 403750.0,
+                "energy_b": 404900.0,
+                "energy_c": 222960.0,
+                "energy_total": 1031610.0
+            },
+            {
+                "time_stamp": "20200430T005649.995+0700",
+                "energy_a": 432190.0,
+                "energy_b": 840200.0,
+                "energy_c": 262570.0,
+                "energy_total": 1534960.0
+            },
+            {
+                "time_stamp": "20200430T010144.322+0700",
+                "energy_a": 421380.0,
+                "energy_b": 957180.0,
+                "energy_c": 255160.0,
+                "energy_total": 1633720.0
+            },
+            {
+                "time_stamp": "20200430T010638.650+0700",
+                "energy_a": 429000.0,
+                "energy_b": 514870.0,
+                "energy_c": 244280.0,
+                "energy_total": 1188150.0
+            },
+            {
+                "time_stamp": "20200430T011132.972+0700",
+                "energy_a": 405740.0,
+                "energy_b": 972770.0,
+                "energy_c": 284850.0,
+                "energy_total": 1663360.0
+            },
+            {
+                "time_stamp": "20200430T011627.301+0700",
+                "energy_a": 392090.0,
+                "energy_b": 992840.0,
+                "energy_c": 292750.0,
+                "energy_total": 1677680.0
+            },
+            {
+                "time_stamp": "20200430T012121.628+0700",
+                "energy_a": 432930.0,
+                "energy_b": 973090.0,
+                "energy_c": 273610.0,
+                "energy_total": 1679630.0
+            },
+            {
+                "time_stamp": "20200430T012615.996+0700",
+                "energy_a": 387290.0,
+                "energy_b": 864880.0,
+                "energy_c": 267910.0,
+                "energy_total": 1520080.0
+            },
+            {
+                "time_stamp": "20200430T013110.283+0700",
+                "energy_a": 395070.0,
+                "energy_b": 448440.0,
+                "energy_c": 248520.0,
+                "energy_total": 1092030.0
+            },
+            {
+                "time_stamp": "20200430T013604.608+0700",
+                "energy_a": 407970.0,
+                "energy_b": 765310.0,
+                "energy_c": 218440.0,
+                "energy_total": 1391720.0
+            },
+            {
+                "time_stamp": "20200430T014058.934+0700",
+                "energy_a": 411930.0,
+                "energy_b": 538580.0,
+                "energy_c": 225950.0,
+                "energy_total": 1176460.0
+            },
+            {
+                "time_stamp": "20200430T014553.262+0700",
+                "energy_a": 396360.0,
+                "energy_b": 820220.0,
+                "energy_c": 218480.0,
+                "energy_total": 1435060.0
+            },
+            {
+                "time_stamp": "20200430T015047.590+0700",
+                "energy_a": 403050.0,
+                "energy_b": 969290.0,
+                "energy_c": 227690.0,
+                "energy_total": 1600030.0
+            },
+            {
+                "time_stamp": "20200430T015541.916+0700",
+                "energy_a": 430800.0,
+                "energy_b": 648330.0,
+                "energy_c": 235000.0,
+                "energy_total": 1314130.0
+            },
+            {
+                "time_stamp": "20200430T020036.241+0700",
+                "energy_a": 397700.0,
+                "energy_b": 826940.0,
+                "energy_c": 254260.0,
+                "energy_total": 1478900.0
+            },
+            {
+                "time_stamp": "20200430T020530.570+0700",
+                "energy_a": 411300.0,
+                "energy_b": 673490.0,
+                "energy_c": 225830.0,
+                "energy_total": 1310620.0
+            },
+            {
+                "time_stamp": "20200430T021024.905+0700",
+                "energy_a": 457570.0,
+                "energy_b": 791230.0,
+                "energy_c": 252060.0,
+                "energy_total": 1500860.0
+            },
+            {
+                "time_stamp": "20200430T021519.237+0700",
+                "energy_a": 386920.0,
+                "energy_b": 599320.0,
+                "energy_c": 221040.0,
+                "energy_total": 1207280.0
+            },
+            {
+                "time_stamp": "20200430T022013.559+0700",
+                "energy_a": 386000.0,
+                "energy_b": 644140.0,
+                "energy_c": 233960.0,
+                "energy_total": 1264100.0
+            },
+            {
+                "time_stamp": "20200430T022507.925+0700",
+                "energy_a": 486240.0,
+                "energy_b": 897090.0,
+                "energy_c": 263100.0,
+                "energy_total": 1646430.0
+            },
+            {
+                "time_stamp": "20200430T023002.217+0700",
+                "energy_a": 515100.0,
+                "energy_b": 645070.0,
+                "energy_c": 274770.0,
+                "energy_total": 1434940.0
+            },
+            {
+                "time_stamp": "20200430T023456.543+0700",
+                "energy_a": 525460.0,
+                "energy_b": 908710.0,
+                "energy_c": 271420.0,
+                "energy_total": 1705590.0
+            },
+            {
+                "time_stamp": "20200430T023950.871+0700",
+                "energy_a": 580630.0,
+                "energy_b": 763610.0,
+                "energy_c": 284980.0,
+                "energy_total": 1629220.0
+            },
+            {
+                "time_stamp": "20200430T024445.204+0700",
+                "energy_a": 520090.0,
+                "energy_b": 816330.0,
+                "energy_c": 313510.0,
+                "energy_total": 1649930.0
+            },
+            {
+                "time_stamp": "20200430T024939.529+0700",
+                "energy_a": 403470.0,
+                "energy_b": 978120.0,
+                "energy_c": 251800.0,
+                "energy_total": 1633390.0
+            },
+            {
+                "time_stamp": "20200430T025433.855+0700",
+                "energy_a": 382320.0,
+                "energy_b": 511160.0,
+                "energy_c": 233100.0,
+                "energy_total": 1126580.0
+            },
+            {
+                "time_stamp": "20200430T025928.183+0700",
+                "energy_a": 446620.0,
+                "energy_b": 978820.0,
+                "energy_c": 271900.0,
+                "energy_total": 1697340.0
+            },
+            {
+                "time_stamp": "20200430T030422.511+0700",
+                "energy_a": 387840.0,
+                "energy_b": 636860.0,
+                "energy_c": 247710.0,
+                "energy_total": 1272410.0
+            },
+            {
+                "time_stamp": "20200430T030916.840+0700",
+                "energy_a": 439070.0,
+                "energy_b": 866440.0,
+                "energy_c": 298020.0,
+                "energy_total": 1603530.0
+            },
+            {
+                "time_stamp": "20200430T031411.173+0700",
+                "energy_a": 400020.0,
+                "energy_b": 584680.0,
+                "energy_c": 256920.0,
+                "energy_total": 1241620.0
+            },
+            {
+                "time_stamp": "20200430T031905.507+0700",
+                "energy_a": 417620.0,
+                "energy_b": 702010.0,
+                "energy_c": 262490.0,
+                "energy_total": 1382120.0
+            },
+            {
+                "time_stamp": "20200430T032359.869+0700",
+                "energy_a": 383260.0,
+                "energy_b": 703370.0,
+                "energy_c": 261220.0,
+                "energy_total": 1347850.0
+            },
+            {
+                "time_stamp": "20200430T032854.156+0700",
+                "energy_a": 390730.0,
+                "energy_b": 537890.0,
+                "energy_c": 246250.0,
+                "energy_total": 1174870.0
+            },
+            {
+                "time_stamp": "20200430T033348.485+0700",
+                "energy_a": 417390.0,
+                "energy_b": 924800.0,
+                "energy_c": 262070.0,
+                "energy_total": 1604260.0
+            },
+            {
+                "time_stamp": "20200430T033842.815+0700",
+                "energy_a": 375040.0,
+                "energy_b": 564130.0,
+                "energy_c": 241690.0,
+                "energy_total": 1180860.0
+            },
+            {
+                "time_stamp": "20200430T034337.139+0700",
+                "energy_a": 438590.0,
+                "energy_b": 905930.0,
+                "energy_c": 248740.0,
+                "energy_total": 1593260.0
+            },
+            {
+                "time_stamp": "20200430T034831.467+0700",
+                "energy_a": 390590.0,
+                "energy_b": 604550.0,
+                "energy_c": 223530.0,
+                "energy_total": 1218670.0
+            },
+            {
+                "time_stamp": "20200430T035325.792+0700",
+                "energy_a": 430300.0,
+                "energy_b": 859160.0,
+                "energy_c": 251210.0,
+                "energy_total": 1540670.0
+            },
+            {
+                "time_stamp": "20200430T035820.117+0700",
+                "energy_a": 414070.0,
+                "energy_b": 976400.0,
+                "energy_c": 232880.0,
+                "energy_total": 1623350.0
+            },
+            {
+                "time_stamp": "20200430T040314.448+0700",
+                "energy_a": 430950.0,
+                "energy_b": 652800.0,
+                "energy_c": 223430.0,
+                "energy_total": 1307180.0
+            },
+            {
+                "time_stamp": "20200430T040808.775+0700",
+                "energy_a": 396300.0,
+                "energy_b": 782060.0,
+                "energy_c": 228610.0,
+                "energy_total": 1406970.0
+            },
+            {
+                "time_stamp": "20200430T041303.108+0700",
+                "energy_a": 426230.0,
+                "energy_b": 556330.0,
+                "energy_c": 221710.0,
+                "energy_total": 1204270.0
+            },
+            {
+                "time_stamp": "20200430T041757.440+0700",
+                "energy_a": 388780.0,
+                "energy_b": 655410.0,
+                "energy_c": 226940.0,
+                "energy_total": 1271130.0
+            },
+            {
+                "time_stamp": "20200430T042251.807+0700",
+                "energy_a": 377160.0,
+                "energy_b": 579830.0,
+                "energy_c": 215190.0,
+                "energy_total": 1172180.0
+            },
+            {
+                "time_stamp": "20200430T042746.098+0700",
+                "energy_a": 405870.0,
+                "energy_b": 679730.0,
+                "energy_c": 221320.0,
+                "energy_total": 1306920.0
+            },
+            {
+                "time_stamp": "20200430T043240.425+0700",
+                "energy_a": 404370.0,
+                "energy_b": 786020.0,
+                "energy_c": 292010.0,
+                "energy_total": 1482400.0
+            },
+            {
+                "time_stamp": "20200430T043734.753+0700",
+                "energy_a": 424080.0,
+                "energy_b": 688370.0,
+                "energy_c": 326090.0,
+                "energy_total": 1438540.0
+            },
+            {
+                "time_stamp": "20200430T044229.082+0700",
+                "energy_a": 432690.0,
+                "energy_b": 848430.0,
+                "energy_c": 320150.0,
+                "energy_total": 1601270.0
+            },
+            {
+                "time_stamp": "20200430T044723.405+0700",
+                "energy_a": 395580.0,
+                "energy_b": 640880.0,
+                "energy_c": 271900.0,
+                "energy_total": 1308360.0
+            },
+            {
+                "time_stamp": "20200430T045217.734+0700",
+                "energy_a": 406270.0,
+                "energy_b": 863910.0,
+                "energy_c": 255930.0,
+                "energy_total": 1526110.0
+            },
+            {
+                "time_stamp": "20200430T045712.065+0700",
+                "energy_a": 395310.0,
+                "energy_b": 620930.0,
+                "energy_c": 252500.0,
+                "energy_total": 1268740.0
+            },
+            {
+                "time_stamp": "20200430T050206.391+0700",
+                "energy_a": 427020.0,
+                "energy_b": 984150.0,
+                "energy_c": 286910.0,
+                "energy_total": 1698080.0
+            },
+            {
+                "time_stamp": "20200430T050700.716+0700",
+                "energy_a": 440870.0,
+                "energy_b": 803970.0,
+                "energy_c": 292450.0,
+                "energy_total": 1537290.0
+            },
+            {
+                "time_stamp": "20200430T051155.042+0700",
+                "energy_a": 465060.0,
+                "energy_b": 529720.0,
+                "energy_c": 257350.0,
+                "energy_total": 1252130.0
+            },
+            {
+                "time_stamp": "20200430T051649.369+0700",
+                "energy_a": 406430.0,
+                "energy_b": 856820.0,
+                "energy_c": 252170.0,
+                "energy_total": 1515420.0
+            },
+            {
+                "time_stamp": "20200430T052143.729+0700",
+                "energy_a": 397950.0,
+                "energy_b": 866250.0,
+                "energy_c": 252400.0,
+                "energy_total": 1516600.0
+            },
+            {
+                "time_stamp": "20200430T052638.022+0700",
+                "energy_a": 378220.0,
+                "energy_b": 436690.0,
+                "energy_c": 233290.0,
+                "energy_total": 1048200.0
+            },
+            {
+                "time_stamp": "20200430T053132.346+0700",
+                "energy_a": 395700.0,
+                "energy_b": 965630.0,
+                "energy_c": 237960.0,
+                "energy_total": 1599290.0
+            },
+            {
+                "time_stamp": "20200430T053626.677+0700",
+                "energy_a": 392400.0,
+                "energy_b": 775900.0,
+                "energy_c": 235930.0,
+                "energy_total": 1404230.0
+            },
+            {
+                "time_stamp": "20200430T054121.000+0700",
+                "energy_a": 501810.0,
+                "energy_b": 709400.0,
+                "energy_c": 278630.0,
+                "energy_total": 1489840.0
+            },
+            {
+                "time_stamp": "20200430T054615.325+0700",
+                "energy_a": 415160.0,
+                "energy_b": 801430.0,
+                "energy_c": 257610.0,
+                "energy_total": 1474200.0
+            },
+            {
+                "time_stamp": "20200430T055109.649+0700",
+                "energy_a": 385930.0,
+                "energy_b": 672230.0,
+                "energy_c": 209440.0,
+                "energy_total": 1267600.0
+            },
+            {
+                "time_stamp": "20200430T055603.975+0700",
+                "energy_a": 390290.0,
+                "energy_b": 769320.0,
+                "energy_c": 228840.0,
+                "energy_total": 1388450.0
+            },
+            {
+                "time_stamp": "20200430T060058.302+0700",
+                "energy_a": 383180.0,
+                "energy_b": 521900.0,
+                "energy_c": 188930.0,
+                "energy_total": 1094010.0
+            },
+            {
+                "time_stamp": "20200430T060552.626+0700",
+                "energy_a": 395190.0,
+                "energy_b": 698510.0,
+                "energy_c": 186400.0,
+                "energy_total": 1280100.0
+            },
+            {
+                "time_stamp": "20200430T061046.956+0700",
+                "energy_a": 368070.0,
+                "energy_b": 492110.0,
+                "energy_c": 175440.0,
+                "energy_total": 1035620.0
+            },
+            {
+                "time_stamp": "20200430T061541.281+0700",
+                "energy_a": 376930.0,
+                "energy_b": 706520.0,
+                "energy_c": 239530.0,
+                "energy_total": 1322980.0
+            },
+            {
+                "time_stamp": "20200430T062035.656+0700",
+                "energy_a": 313120.0,
+                "energy_b": 446700.0,
+                "energy_c": 227270.0,
+                "energy_total": 987090.0
+            },
+            {
+                "time_stamp": "20200430T062529.939+0700",
+                "energy_a": 304670.0,
+                "energy_b": 733520.0,
+                "energy_c": 226310.0,
+                "energy_total": 1264500.0
+            },
+            {
+                "time_stamp": "20200430T063024.263+0700",
+                "energy_a": 427860.0,
+                "energy_b": 457640.0,
+                "energy_c": 335870.0,
+                "energy_total": 1221370.0
+            },
+            {
+                "time_stamp": "20200430T063518.590+0700",
+                "energy_a": 772050.0,
+                "energy_b": 814040.0,
+                "energy_c": 318090.0,
+                "energy_total": 1904180.0
+            },
+            {
+                "time_stamp": "20200430T064012.918+0700",
+                "energy_a": 296880.0,
+                "energy_b": 408770.0,
+                "energy_c": 415000.0,
+                "energy_total": 1120650.0
+            },
+            {
+                "time_stamp": "20200430T064507.246+0700",
+                "energy_a": 303800.0,
+                "energy_b": 704400.0,
+                "energy_c": 461420.0,
+                "energy_total": 1469620.0
+            },
+            {
+                "time_stamp": "20200430T065001.565+0700",
+                "energy_a": 328290.0,
+                "energy_b": 394400.0,
+                "energy_c": 465760.0,
+                "energy_total": 1188450.0
+            },
+            {
+                "time_stamp": "20200430T065455.890+0700",
+                "energy_a": 397400.0,
+                "energy_b": 511190.0,
+                "energy_c": 494620.0,
+                "energy_total": 1403210.0
+            },
+            {
+                "time_stamp": "20200430T065950.214+0700",
+                "energy_a": 431880.0,
+                "energy_b": 706200.0,
+                "energy_c": 499940.0,
+                "energy_total": 1638020.0
+            },
+            {
+                "time_stamp": "20200430T070444.541+0700",
+                "energy_a": 511330.0,
+                "energy_b": 934200.0,
+                "energy_c": 550400.0,
+                "energy_total": 1995930.0
+            },
+            {
+                "time_stamp": "20200430T070938.866+0700",
+                "energy_a": 608200.0,
+                "energy_b": 583990.0,
+                "energy_c": 596150.0,
+                "energy_total": 1788340.0
+            },
+            {
+                "time_stamp": "20200430T071433.192+0700",
+                "energy_a": 590430.0,
+                "energy_b": 1060600.0,
+                "energy_c": 514580.0,
+                "energy_total": 2165610.0
+            },
+            {
+                "time_stamp": "20200430T071927.549+0700",
+                "energy_a": 605650.0,
+                "energy_b": 941870.0,
+                "energy_c": 490360.0,
+                "energy_total": 2037880.0
+            },
+            {
+                "time_stamp": "20200430T072421.842+0700",
+                "energy_a": 1156400.0,
+                "energy_b": 1375220.0,
+                "energy_c": 1069240.0,
+                "energy_total": 3600860.0
+            },
+            {
+                "time_stamp": "20200430T072916.173+0700",
+                "energy_a": 2042770.0,
+                "energy_b": 1546110.0,
+                "energy_c": 1813490.0,
+                "energy_total": 5402370.0
+            },
+            {
+                "time_stamp": "20200430T073410.502+0700",
+                "energy_a": 2248270.0,
+                "energy_b": 1821700.0,
+                "energy_c": 1707810.0,
+                "energy_total": 5777780.0
+            },
+            {
+                "time_stamp": "20200430T073904.828+0700",
+                "energy_a": 2476810.0,
+                "energy_b": 1212910.0,
+                "energy_c": 1497330.0,
+                "energy_total": 5187050.0
+            },
+            {
+                "time_stamp": "20200430T074359.153+0700",
+                "energy_a": 2642610.0,
+                "energy_b": 1483250.0,
+                "energy_c": 1671990.0,
+                "energy_total": 5797850.0
+            },
+            {
+                "time_stamp": "20200430T074853.482+0700",
+                "energy_a": 3122010.0,
+                "energy_b": 1862340.0,
+                "energy_c": 2151110.0,
+                "energy_total": 7135460.0
+            },
+            {
+                "time_stamp": "20200430T075842.141+0700",
+                "energy_a": 3007020.0,
+                "energy_b": 1943740.0,
+                "energy_c": 2061630.0,
+                "energy_total": 7012390.0
+            },
+            {
+                "time_stamp": "20200430T080336.468+0700",
+                "energy_a": 2999710.0,
+                "energy_b": 1586860.0,
+                "energy_c": 1930950.0,
+                "energy_total": 6517520.0
             }
         ]
     },
